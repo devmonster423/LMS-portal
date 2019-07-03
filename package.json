@@ -1,5 +1,5 @@
 {
-  "name": "learnspace-ui",
+  "name": "LMS",
   "version": "1.0.0",
   "description": "graphql client with react and NEXT.js",
   "main": "./pages/index.js",
